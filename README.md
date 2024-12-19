@@ -10,7 +10,7 @@ GitHub account
 Azure CLI (for local testing with Azure)
 
 Project Structure
-Copy.
+
 ├── app.py              # Main Flask application
 ├── requirements.txt    # Python dependencies
 ├── .github/workflows   # GitHub Actions workflow files
