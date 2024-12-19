@@ -30,7 +30,7 @@ Run the application:
 
 python app.py
 
-The application will be available at http://localhost:5000
+The application will be available at       https://mynew-python-web-api-123-a6h4dfc0dvhta0e7.northeurope-01.azurewebsites.net/ 
 
 Deployment
 The application is automatically deployed to Azure Web Apps through GitHub Actions when changes are pushed to the main branch. The deployment process includes:
